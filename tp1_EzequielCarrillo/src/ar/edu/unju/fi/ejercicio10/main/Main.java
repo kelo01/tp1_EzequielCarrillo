@@ -2,7 +2,7 @@ package ar.edu.unju.fi.ejercicio10.main;
 
 import java.util.Scanner;
 
-import ar.unju.edu.fi.ejercicio10.model.Pizza;
+import ar.edu.unju.fi.ejercicio10.model.Pizza;
 
 public class Main {
 	    public static void main(String[] args) {

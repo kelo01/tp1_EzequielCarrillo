@@ -1,4 +1,4 @@
-package ar.unju.edu.fi.ejercicio10.model;
+package ar.edu.unju.fi.ejercicio10.model;
 
 
 public class Pizza {
