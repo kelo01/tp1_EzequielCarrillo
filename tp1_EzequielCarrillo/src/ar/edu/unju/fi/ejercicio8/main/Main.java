@@ -1,6 +1,7 @@
-package ar.unju.edu.fi.ejercicio8.main;
+package ar.edu.unju.fi.ejercicio8.main;
 import java.util.*;
-import ar.unju.edu.fi.ejercicio8.model.*;
+
+import ar.edu.unju.fi.ejercicio8.model.*;
 public class Main {
 	
 	public static void main(String[] args) {

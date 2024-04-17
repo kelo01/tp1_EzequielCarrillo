@@ -1,4 +1,4 @@
-package ar.unju.edu.fi.ejercicio11.main;
+package ar.edu.unju.fi.ejercicio11.main;
 
 public class Main {
 	public static void main(String[] args) {
